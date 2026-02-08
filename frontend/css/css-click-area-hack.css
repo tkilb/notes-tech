@@ -1,0 +1,12 @@
+.my-thing {
+    //existing css properties
+    position: relative;
+    &:before {
+      content: '';
+      position: absolute;
+      bottom: -8px;
+      left: -8px;
+      right: -8px;
+      top: -8px;
+    }
+}

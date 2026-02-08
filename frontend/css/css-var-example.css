@@ -1,0 +1,10 @@
+:root {
+  --main-color: #F06D06;
+}
+
+.main-header {
+  color: var(--main-color);
+}
+.main-footer {
+  background-color: var(--main-color);
+}

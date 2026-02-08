@@ -1,0 +1,20 @@
+[
+  {
+    front: "Internet Gateway IGW", 
+    back: "Region Resilient gateway attachted to a VPC, VPC will have 0 or 1 IGW." 
+  },
+  {
+    front: "What is the IGW used for", 
+    back: "Traffic between the VPC and the internet or the AWS public zone." 
+  },
+  {
+    front: "How does the IGW manage IPv4 addresses", 
+    back: "It rewrites packets to use its surrogate public IPs when it leaves the VPC and rewrites during ingress." 
+  },
+  {},
+  {
+    front: "", 
+    back: "" 
+  },
+  {}
+]
