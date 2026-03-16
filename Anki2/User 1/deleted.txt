@@ -1,2 +1,0 @@
-nid	mid	fields
-1696353022468	1696338205566	<b>Flashcards for AWS AI Practitioner (AIF-C01) by CGreciano (GlosuU)<br></b><br>Find study notes, PDFs, flashcards, and other materials (for this as well as other certifications and courses) at <a href="https://christiangreciano.com/">https://christiangreciano.com/</a>	Your journey begins after this card. Feel free to suspend or delete this initial card (to not see it again). :)		<a href="https://christiangreciano.com/">https://christiangreciano.com/</a>
